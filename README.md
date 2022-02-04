@@ -16,7 +16,7 @@
 
 App para acompanhar as ligas de futubol do mundo.
 
-Funcionalidades: Listagem de todas as ligas presentes na api, litagem das temporadas referentes à liga, listagem da colocação de cada time tendo como referência à liga e temporada (total de jogos, vitórias, saldo de gols e pontos), detalhes de um time específico (país, ano de fundação e logo), listagem dos detalhes do estádio do time em questão (nome, endereço, cidade e capacidade);
+Funcionalidades: Listagem de todas as ligas presentes na api (https://www.api-football.com/), litagem das temporadas referentes à liga, listagem da colocação de cada time tendo como referência à liga e temporada (total de jogos, vitórias, saldo de gols e pontos), detalhes de um time específico (país, ano de fundação e logo), listagem dos detalhes do estádio do time em questão (nome, endereço, cidade e capacidade);
 
 ## 🚀 Tecnologias
 
